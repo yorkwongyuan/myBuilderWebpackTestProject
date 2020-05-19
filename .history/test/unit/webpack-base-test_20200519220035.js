@@ -6,7 +6,7 @@ describe('webpack.base.js test case', () => {
     assert.equal(baseConfig.entry.index.indexOf('test/smoke/template/src/index/index.js') > -1, true)
   })
   it('entry/search', () => {
-    assert.equal(baseConfig.entry.search.indexOf('test/smoke/template/src/search/index.js') > -1, true)
+    assert.equal(baseConfig.entry.search, '/Users/wangy/IT/webpack/webpack-jike/builder-webpack/test/smoke/template/src/search/index.js')
   })
 
 })
