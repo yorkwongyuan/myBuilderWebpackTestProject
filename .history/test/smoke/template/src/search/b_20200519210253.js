@@ -1,3 +1,3 @@
 export function b () {
-  return '熊12121212'
+  return '熊'
 }
