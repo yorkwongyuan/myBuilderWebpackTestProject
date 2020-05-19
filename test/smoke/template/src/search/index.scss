@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'haha';
+  src: url(../../static/111.ttf) format('truetype')
+}
+
+// 数据
+.search-text {
+  width: 75px;
+  color: red;
+  font-family: 'haha';
+  display: flex;
+}
