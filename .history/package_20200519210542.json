@@ -1,5 +1,5 @@
 {
-  "name": "myBuilderWebpackTestProject",
+  "name": "builder-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.base.js",
